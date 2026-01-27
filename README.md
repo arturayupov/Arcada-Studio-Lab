@@ -66,5 +66,5 @@ We are always looking for visionary founders, world-class engineers, and forward
 
 > *"The best way to predict the future is to invent it."*
 
-*© 2025 Arcada Studio LLC. All Systems Operational.*
+*© 2026 Arcada Studio LLC. All Systems Operational.*
 *Registered Entity ID: US-NM-2026-ARC | Status: Active*
