@@ -58,7 +58,7 @@ We are always looking for visionary founders, world-class engineers, and forward
 
 | Platform | Coordinates |
 | :--- | :--- |
-| **Official Headquarters** | [www.arcadallc.com](https://www.arcadallc.com) |
+| **Official Headquarters** | [www.arcadallc.com](https://arcadallc.com/) |
 | **LinkedIn Channel** | [Arcada Studio Lab](https://www.linkedin.com/company/arcadastudiolab/) |
 | **Visual Transmissions** | [YouTube Channel](https://www.youtube.com/channel/UCRU7yx7UCyXrnGNYRUkJExQ) |
 
